@@ -12,11 +12,11 @@
  
 ## Installation
 
-   NPM i, npm start
+   NPM i, node server.js
 
 ## Usage
 
-   The client is able to make new notes, delete them and add more.
+   The client is able to make a new inventory and look at all the of their merchendise in the store with sale price, product, and category.
 
 
 ## Questions
