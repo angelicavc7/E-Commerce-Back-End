@@ -25,7 +25,7 @@
         
    Email: angelicavillar_c@live.com
 
-![notetaker image with added note](./assets/images/notetaker.png)
+![gif snippet of video](./assets/images/notetaker.png)
    
 
 
