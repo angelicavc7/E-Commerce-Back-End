@@ -1,7 +1,7 @@
 {
   "name": "e-commerce-back-end",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application is inteded to create a database for inventory and sales for the user. This application would be most useful to someone in sales keeping track of inventory and",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,5 +24,6 @@
     "mysql": "^2.18.1",
     "mysql2": "^2.2.5",
     "sequelize": "^6.6.2"
-  }
+  },
+  "devDependencies": {}
 }
